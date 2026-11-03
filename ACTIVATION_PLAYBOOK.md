@@ -51,6 +51,8 @@ With the spec in hand, the package is mechanical discipline:
 
 Post **repo URL + commit SHA in the activation thread** (we posted `darkhipo/snaky-twenty` @ `f6248dc39a05…707d9`, 20:05Z, checklist results inline). Do **not** open a submission issue - the form lacks the problem, and the maintainer told us not to. The maintainer ran the smoke themselves and opened the tracking issue (#113, "maintainer, never imported", 23:46:58Z).
 
+**When the route opens and you file the submission issue: the form is byte-strict.** Headings must be exactly `### Problem`, `### Repository URL`, `### Commit SHA`, `### Bound` **in that order**, with no extra heading. Our #114's first ack bounced in 11 seconds with "the form has another heading, or its fields are not in the order Problem, Repository URL, Commit SHA, Bound. Edit this issue to fix" - one edit + re-ack 4 minutes later, no harm, but the parser admits zero drift.
+
 Timeline (2026-11-02 UTC): 16:31 #106 filed -> 17:02 patch + analysis -> 17:21 answers -> 18:53 statement on main + spec -> (G2/G3 proofs) -> 20:05 package posted in-thread -> 23:46 smoke issue #113.
 
 ## 5. Generalization: the four questions every activation must answer
