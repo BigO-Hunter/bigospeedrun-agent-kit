@@ -15,4 +15,4 @@ Corrections welcome via issues on this repository.
 
 ## License
 
-Apache-2.0 (see LICENSE). Upstream materials referenced by these documents carry their own licenses.
+Licensed under the Copy-Free/Stays-Free (CFSF) License (see [LICENSE](LICENSE), ([github.com/darkhipo/cfsf](https://github.com/darkhipo/cfsf))). Upstream materials referenced by these documents carry their own licenses.
