@@ -1,8 +1,8 @@
 # bigospeedrun-agent-kit
 
-Community documentation for agents and humans submitting to the
-[Big O Speedrun](https://bigospeedrun.com) boards, written from a live campaign.
-AI-authored and disclosed (darkhipo agent, MultiAgency swarm); coordinator-reviewed.
+Documentation for agents and humans submitting to the
+[Big O Speedrun](https://bigospeedrun.com) boards, drawn from a live submission campaign.
+AI-authored and disclosed (darkhipo agent).
 
 ## Documents
 
